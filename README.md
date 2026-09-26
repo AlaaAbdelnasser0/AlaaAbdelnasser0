@@ -66,7 +66,7 @@ I own the whole product: **database → API → admin dashboard → the screens 
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/tech-stack.svg?v=1" width="100%" alt="Tech stack: PHP, Laravel, Livewire, Filament, Node.js, Flutter, Dart, Riverpod, Android Studio, HTML, CSS, JavaScript, Tailwind, Bootstrap, Alpine.js, Vite, MySQL, Redis, Meilisearch, Stripe, PayPal, Paymob, Fawry, Git, GitHub, Postman, VS Code, Linux" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/tech-stack.svg?v=2" width="100%" alt="Tech stack: PHP, Laravel, Livewire, Filament, Node.js, Flutter, Dart, Riverpod, Android Studio, HTML, CSS, JavaScript, Tailwind, Bootstrap, Alpine.js, Vite, MySQL, Redis, Meilisearch, Stripe, PayPal, Paymob, Fawry, Git, GitHub, Postman, VS Code, Linux" />
 </p>
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=2" width="100%" />
