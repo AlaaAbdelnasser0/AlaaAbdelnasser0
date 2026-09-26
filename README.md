@@ -1,7 +1,7 @@
 <!-- Alaa Abdelnasser — Full-Stack Laravel & Flutter Developer -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/header.svg" alt="Alaa Abdelnasser — Full-Stack Laravel &amp; Flutter Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/header.svg?v=2" alt="Alaa Abdelnasser — Full-Stack Laravel &amp; Flutter Developer" width="100%" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=AlaaAbdelnasser0&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=2" width="100%" />
 
 ## 👨‍💻 About Me
 
@@ -35,33 +35,33 @@ I own the whole product: **database → API → admin dashboard → the screens 
 
 </td>
 <td width="52%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/about.svg" width="100%" alt="class Alaa extends Developer" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/about.svg?v=2" width="100%" alt="class Alaa extends Developer" />
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=2" width="100%" />
 
 ## 🚀 Selected Work
 
 <p align="center">
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/shado.svg" width="49%" alt="SHADO Online Trading" /></a>
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/crm.svg" width="49%" alt="Motigraph CRM" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/shado.svg?v=2" width="49%" alt="SHADO Online Trading" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/crm.svg?v=2" width="49%" alt="Motigraph CRM" /></a>
 </p>
 <p align="center">
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/lms.svg" width="49%" alt="Moti-Graph Academy" /></a>
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/school.svg" width="49%" alt="NSIS International School" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/lms.svg?v=2" width="49%" alt="Moti-Graph Academy" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/school.svg?v=2" width="49%" alt="NSIS International School" /></a>
 </p>
 <p align="center">
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/saas.svg" width="49%" alt="SaaS PM Platform" /></a>
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/aura.svg" width="49%" alt="Aura Wellness" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/saas.svg?v=2" width="49%" alt="SaaS PM Platform" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/aura.svg?v=2" width="49%" alt="Aura Wellness" /></a>
 </p>
 <p align="center">
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/saloon.svg" width="49%" alt="MS Saloon" /></a>
-  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/stockpro.svg" width="49%" alt="StockPro" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/saloon.svg?v=2" width="49%" alt="MS Saloon" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/stockpro.svg?v=2" width="49%" alt="StockPro" /></a>
 </p>
 
-<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=2" width="100%" />
 
 ## 🛠️ Tech Stack
 
@@ -92,21 +92,12 @@ I own the whole product: **database → API → admin dashboard → the screens 
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=2" width="100%" />
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlaaAbdelnasser0&theme=tokyonight" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlaaAbdelnasser0&theme=tokyonight&utcOffset=3" alt="Productive time" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=AlaaAbdelnasser0&hide_border=true&background=0d1117&stroke=1e293b&ring=7c5cff&fire=22d3ee&currStreakNum=f4f7fb&currStreakLabel=7c5cff&sideNums=f4f7fb&sideLabels=9aa8bd&dates=64748b&border_radius=14" alt="GitHub streak" width="80%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaAbdelnasser0&bg_color=0d1117&color=f4f7fb&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Activity graph" />
 </p>
 
 <p align="center">
