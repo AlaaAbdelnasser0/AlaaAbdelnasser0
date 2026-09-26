@@ -39,8 +39,6 @@ I own the whole product: **database → API → admin dashboard → the screens 
 
 </td>
 <td width="52%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/photo.png?v=4" width="190" alt="Alaa Abdelnasser" />
-  <br /><br />
   <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/about.svg?v=4" width="100%" alt="class Alaa extends Developer" />
 </td>
 </tr>
