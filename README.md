@@ -65,32 +65,9 @@ I own the whole product: **database → API → admin dashboard → the screens 
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-<tr>
-  <td align="center" width="170"><b>⚙️ Backend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/Filament-FFAB00?style=flat-square&logo=filament&logoColor=black" height="26" /></td>
-</tr>
-<tr>
-  <td align="center"><b>📱 Mobile</b></td>
-  <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square&logo=flutter&logoColor=white" height="26" /></td>
-</tr>
-<tr>
-  <td align="center"><b>🎨 Frontend</b></td>
-  <td><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vite&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" height="26" /></td>
-</tr>
-<tr>
-  <td align="center"><b>🗄️ Data</b></td>
-  <td><img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white" height="26" /></td>
-</tr>
-<tr>
-  <td align="center"><b>💳 Payments</b></td>
-  <td><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/Paymob-1E4FD8?style=flat-square" height="26" /> <img src="https://img.shields.io/badge/Fawry-FFC400?style=flat-square&logoColor=black" height="26" /></td>
-</tr>
-<tr>
-  <td align="center"><b>🧰 Tools</b></td>
-  <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" height="48" /></td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/tech-stack.svg?v=1" width="100%" alt="Tech stack: PHP, Laravel, Livewire, Filament, Node.js, Flutter, Dart, Riverpod, Android Studio, HTML, CSS, JavaScript, Tailwind, Bootstrap, Alpine.js, Vite, MySQL, Redis, Meilisearch, Stripe, PayPal, Paymob, Fawry, Git, GitHub, Postman, VS Code, Linux" />
+</p>
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=2" width="100%" />
 
