@@ -1,63 +1,50 @@
-<!-- Alaa Abdelnasser — Full-Stack Laravel & Flutter Developer -->
+<!-- علاء عبد الناصر — مطوّر Full-Stack (Laravel و Flutter) -->
 
-<p align="right"><b>🇬🇧 English</b> · <a href="README.ar.md">🇪🇬 العربية</a></p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/header.svg?v=4" alt="Alaa Abdelnasser — Full-Stack Laravel &amp; Flutter Developer" width="100%" />
-</p>
+<p align="left"><a href="README.md">🇬🇧 English</a> · <b>🇪🇬 العربية</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C5CFF&center=true&vCenter=true&width=620&lines=I+build+complete+products%2C+end+to+end;Laravel+backends+%C2%B7+Admin+dashboards+%C2%B7+APIs;Flutter+apps+for+iOS+%26+Android;Arabic-first+RTL+%C2%B7+Payments+%C2%B7+SaaS" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/header.svg?v=4" alt="علاء عبد الناصر — مطوّر Full-Stack" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://predevsolutions.com/"><img src="https://img.shields.io/badge/predev._Solutions-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="predev. Solutions" /></a>
-  <a href="mailto:alaaamr261@gmail.com"><img src="https://img.shields.io/badge/Hire_me-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
+  <a href="mailto:alaaamr261@gmail.com"><img src="https://img.shields.io/badge/تواصل_معي-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=AlaaAbdelnasser0&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center">🔨 <b>Currently building:</b> <a href="#-product-showcase">SHADO Online Trading</a> — a multi-vendor marketplace with escrow checkout</p>
+<div dir="rtl">
+
+<p align="center">🔨 <b>أعمل حاليًا على:</b> <a href="#-عرض-المنتج">SHADO Online Trading</a> — سوق إلكتروني متعدد البائعين مع دفع آمن (Escrow)</p>
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=4" width="100%" />
 
-## 👨‍💻 About Me
+## 👨‍💻 نبذة عني
 
-<table>
-<tr>
-<td width="48%" valign="top">
+أنا **مطوّر Full-Stack** بنيت **أكثر من 16 منتجًا** للويب والموبايل — أسواق إلكترونية، منصات SaaS متعددة المستأجرين، أنظمة CRM، منصات تعليمية، مواقع شركات وتطبيقات Flutter.
 
-I'm a **Full-Stack developer** who has built **16+ web & mobile products** — marketplaces, multi-tenant SaaS, CRMs, learning platforms, business websites and Flutter apps.
+أتولّى المنتج بالكامل: **قاعدة البيانات ← الـ API ← لوحة التحكم ← الشاشات التي يستخدمها العميل.**
 
-I own the whole product: **database → API → admin dashboard → the screens users touch.**
-
-- 💼 Full-Stack Developer @ **[predev. Solutions](https://predevsolutions.com/)**
-- 🧱 Laravel backends, REST APIs & custom CMS dashboards
-- 📱 Flutter mobile apps with Laravel APIs behind them
-- 💳 Escrow checkout, wallets & payouts — Stripe · PayPal · Paymob · Fawry
-- 🌐 Bilingual **AR / EN**, RTL-first, dark mode & PWAs
-- 📍 Cairo, Egypt 🇪🇬 · 📫 **alaaamr261@gmail.com**
-
-</td>
-<td width="52%" valign="top" align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/about.svg?v=4" width="100%" alt="class Alaa extends Developer" />
-</td>
-</tr>
-</table>
+- 💼 مطوّر Full-Stack في **[predev. Solutions](https://predevsolutions.com/)**
+- 🧱 أنظمة Laravel خلفية، REST APIs ولوحات تحكم CMS مخصّصة
+- 📱 تطبيقات موبايل بـ Flutter مربوطة بـ Laravel API
+- 💳 دفع آمن (Escrow)، محافظ وتحويلات — Stripe · PayPal · Paymob · فوري
+- 🌐 واجهات ثنائية اللغة **عربي / إنجليزي**، تدعم RTL، الوضع الليلي و PWA
+- 📍 القاهرة، مصر 🇪🇬 · 📫 **alaaamr261@gmail.com**
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=4" width="100%" />
 
-## 🧰 What I Can Build For You
+## 🧰 ماذا يمكنني أن أبني لك
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/services.svg?v=4" width="100%" alt="Services: Web platforms, Dashboards &amp; CMS, Flutter mobile apps, Payment integration, APIs &amp; backends, Arabic-first &amp; RTL" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/services.svg?v=4" width="100%" alt="الخدمات" />
 </p>
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=4" width="100%" />
 
-## 🚀 Selected Work
+## 🚀 أعمال مختارة
 
 <p align="center">
-  <a href="#-product-showcase"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/shado.svg?v=4" width="49%" alt="SHADO Online Trading" /></a>
+  <a href="#-عرض-المنتج"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/shado.svg?v=4" width="49%" alt="SHADO Online Trading" /></a>
   <a href="#"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/crm.svg?v=4" width="49%" alt="Motigraph CRM" /></a>
 </p>
 <p align="center">
@@ -73,9 +60,9 @@ I own the whole product: **database → API → admin dashboard → the screens 
   <a href="#"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/stockpro.svg?v=4" width="49%" alt="StockPro" /></a>
 </p>
 
-## 📸 Product Showcase
+## 📸 عرض المنتج
 
-**SHADO Online Trading** — the storefront buyers see, and the analytics dashboard every seller gets.
+**SHADO Online Trading** — واجهة المتجر التي يراها المشتري، ولوحة التحليلات التي يحصل عليها كل بائع.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/screens/shado-storefront.jpg?v=4" width="49%" alt="SHADO storefront" />
@@ -84,15 +71,15 @@ I own the whole product: **database → API → admin dashboard → the screens 
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=4" width="100%" />
 
-## 🗓️ Build Timeline
+## 🗓️ الجدول الزمني للمشاريع
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/timeline.svg?v=4" width="100%" alt="Build timeline 2026" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/timeline.svg?v=4" width="100%" alt="الجدول الزمني 2026" />
 </p>
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=4" width="100%" />
 
-## 🛠️ Tech Stack
+## 🛠️ التقنيات
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/tech-stack.svg?v=4" width="100%" alt="Tech stack: PHP, Laravel, Livewire, Filament, Node.js, Flutter, Dart, Riverpod, Android Studio, HTML, CSS, JavaScript, Tailwind, Bootstrap, Alpine.js, Vite, MySQL, Redis, Meilisearch, Stripe, PayPal, Paymob, Fawry, Git, GitHub, Postman, VS Code, Linux" />
@@ -100,10 +87,10 @@ I own the whole product: **database → API → admin dashboard → the screens 
 
 <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg?v=4" width="100%" />
 
-## 📊 GitHub Analytics
+## 📊 إحصائيات GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/stats.svg?v=4" width="100%" alt="Stats across all repos, private included" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/stats.svg?v=4" width="100%" alt="إحصائيات كل المستودعات بما فيها الخاصة" />
 </p>
 
 <p align="center">
@@ -117,6 +104,8 @@ I own the whole product: **database → API → admin dashboard → the screens 
     <img alt="Contribution snake" src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/output/snake-dark.svg" />
   </picture>
 </p>
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:22D3EE&height=130&section=footer&text=Let's%20build%20your%20next%20product&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" />
 
