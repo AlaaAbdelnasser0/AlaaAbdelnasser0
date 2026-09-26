@@ -1,22 +1,60 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1a1238"/>
-    </linearGradient>
-    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#22D3EE"/>
-    </linearGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
-    </pattern>
-  </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-  <circle cx="1050" cy="60" r="160" fill="#7C5CFF" opacity="0.18"/>
-  <circle cx="1130" cy="260" r="110" fill="#22D3EE" opacity="0.12"/>
-  <text x="70" y="95" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#22D3EE">&lt;?php echo "Hello, world!"; ?&gt;</text>
-  <text x="70" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#f4f7fb">Alaa Abdelnasser</text>
-  <rect x="72" y="185" width="140" height="5" rx="2.5" fill="url(#ac)"/>
-  <text x="70" y="232" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#c9d1e3">Full-Stack Laravel &amp; Flutter Developer</text>
-  <text x="70" y="268" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b95ab">@ predev. Solutions  ·  Cairo, Egypt</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<style>
+  .orb { animation: float 9s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
+  .o2 { animation-duration: 12s; animation-delay: -4s; }
+  .o3 { animation-duration: 15s; animation-delay: -7s; }
+  @keyframes float { 0%,100% { transform: translate(0,0) scale(1); } 50% { transform: translate(-30px,18px) scale(1.12); } }
+  .up { animation: up .9s cubic-bezier(.2,.7,.2,1) backwards; }
+  .d1 { animation-delay: .15s; } .d2 { animation-delay: .45s; } .d3 { animation-delay: .75s; } .d4 { animation-delay: 1.05s; }
+  @keyframes up { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+  .bar { animation: grow 1.2s .6s cubic-bezier(.2,.7,.2,1) both; transform-origin: left; transform-box: fill-box; }
+  @keyframes grow { from { transform: scaleX(0); } to { transform: scaleX(1); } }
+  .cur { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity: 0; } }
+  .shine { animation: shine 6s linear infinite; }
+  @keyframes shine { from { transform: translateX(-400px); } to { transform: translateX(1600px); } }
+</style>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b0f1a"/><stop offset=".6" stop-color="#120d2b"/><stop offset="1" stop-color="#0b1a2b"/></linearGradient>
+  <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="sh" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".06"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="40"/></filter>
+  <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#fff" fill-opacity=".07"/></pattern>
+  <clipPath id="c"><rect width="1200" height="340" rx="22"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+  <rect width="1200" height="340" fill="url(#bg)"/>
+  <rect width="1200" height="340" fill="url(#dots)"/>
+  <circle class="orb" cx="980" cy="90" r="150" fill="#7C5CFF" opacity=".55" filter="url(#blur)"/>
+  <circle class="orb o2" cx="1120" cy="280" r="110" fill="#22D3EE" opacity=".35" filter="url(#blur)"/>
+  <circle class="orb o3" cx="760" cy="330" r="90" fill="#FF2D20" opacity=".18" filter="url(#blur)"/>
+  <rect class="shine" x="0" y="0" width="300" height="340" fill="url(#sh)" transform="skewX(-20)"/>
+
+  <!-- floating code window -->
+  <g transform="translate(820,70)" class="up d4">
+    <rect width="310" height="200" rx="14" fill="#0d1117" fill-opacity=".82" stroke="#ffffff" stroke-opacity=".1"/>
+    <circle cx="22" cy="22" r="6" fill="#ff5f57"/><circle cx="42" cy="22" r="6" fill="#febc2e"/><circle cx="62" cy="22" r="6" fill="#28c840"/>
+    <text x="290" y="27" text-anchor="end" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="12" fill="#6b7280">routes/web.php</text>
+    <g font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="14">
+      <text x="22" y="66"><tspan fill="#c678dd">Route</tspan><tspan fill="#e5e7eb">::</tspan><tspan fill="#61afef">get</tspan><tspan fill="#e5e7eb">(</tspan><tspan fill="#98c379">'/idea'</tspan><tspan fill="#e5e7eb">,</tspan></text>
+      <text x="38" y="90"><tspan fill="#c678dd">fn</tspan><tspan fill="#e5e7eb">() =&gt; </tspan><tspan fill="#61afef">ship</tspan><tspan fill="#e5e7eb">(</tspan></text>
+      <text x="54" y="114"><tspan fill="#e5c07b">web</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#FF6B5B">Laravel</tspan><tspan fill="#e5e7eb">,</tspan></text>
+      <text x="54" y="138"><tspan fill="#e5c07b">app</tspan><tspan fill="#e5e7eb">: </tspan><tspan fill="#54C5F8">Flutter</tspan><tspan fill="#e5e7eb">,</tspan></text>
+      <text x="38" y="162" fill="#e5e7eb">));<tspan class="cur" fill="#22D3EE"> ▍</tspan></text>
+    </g>
+  </g>
+
+  <text class="up d1" x="72" y="100" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="18" fill="#22D3EE">// hello world, I'm</text>
+  <text class="up d2" x="70" y="172" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="64" font-weight="800" fill="#f4f7fb" letter-spacing="-1">Alaa Abdelnasser</text>
+  <rect class="bar" x="73" y="192" width="180" height="6" rx="3" fill="url(#ac)"/>
+  <text class="up d3" x="72" y="242" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="27" font-weight="600" fill="#d7dcf0">Full-Stack <tspan fill="#FF6B5B">Laravel</tspan> &amp; <tspan fill="#54C5F8">Flutter</tspan> Developer</text>
+  <g class="up d4" font-family="'Segoe UI', -apple-system, Helvetica, Arial, sans-serif" font-size="16" fill="#aab3c8">
+    <rect x="72" y="266" width="186" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+    <text x="165" y="288" text-anchor="middle">💼  predev. Solutions</text>
+    <rect x="270" y="266" width="160" height="34" rx="17" fill="#ffffff" fill-opacity=".06" stroke="#ffffff" stroke-opacity=".12"/>
+    <text x="350" y="288" text-anchor="middle">📍  Cairo, Egypt</text>
+    <rect x="442" y="266" width="210" height="34" rx="17" fill="#7C5CFF" fill-opacity=".18" stroke="#7C5CFF" stroke-opacity=".6"/>
+    <text x="547" y="288" text-anchor="middle" fill="#e4dcff">🚀  16+ products built</text>
+  </g>
+</g>
 </svg>

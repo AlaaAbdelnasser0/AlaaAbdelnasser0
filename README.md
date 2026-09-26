@@ -1,107 +1,125 @@
 <!-- Alaa Abdelnasser — Full-Stack Laravel & Flutter Developer -->
-<!-- ======================= HEADER ======================= -->
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/header.svg" alt="Alaa Abdelnasser — Full-Stack Laravel &amp; Flutter Developer" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C5CFF&center=true&vCenter=true&width=640&lines=Full-Stack+Laravel+%26+Flutter+Developer;16%2B+web+%26+mobile+products+built;Storefronts+%C2%B7+SaaS+%C2%B7+CRMs+%C2%B7+Mobile+apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C5CFF&center=true&vCenter=true&width=620&lines=I+build+complete+products%2C+end+to+end;Laravel+backends+%C2%B7+Admin+dashboards+%C2%B7+APIs;Flutter+apps+for+iOS+%26+Android;Arabic-first+RTL+%C2%B7+Payments+%C2%B7+SaaS" alt="Typing SVG" />
 </p>
 
-<!-- ======================= SOCIAL ======================= -->
 <p align="center">
   <a href="https://predevsolutions.com/"><img src="https://img.shields.io/badge/predev._Solutions-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="predev. Solutions" /></a>
-  <a href="mailto:alaaamr261@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AlaaAbdelnasser0&style=for-the-badge&color=7c5cff&label=Profile+views" alt="Profile views" />
+  <a href="mailto:alaaamr261@gmail.com"><img src="https://img.shields.io/badge/Hire_me-22D3EE?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=AlaaAbdelnasser0&style=for-the-badge&color=161b22&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<!-- ======================= ABOUT ======================= -->
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+
 ## 👨‍💻 About Me
 
-<img align="right" width="220" src="https://github.com/AlaaAbdelnasser0.png?size=460" alt="Alaa Abdelnasser" />
+<table>
+<tr>
+<td width="48%" valign="top">
 
-Full-Stack developer with **16+ web & mobile products built** — from Arabic-first (RTL) business websites to multi-vendor marketplaces, multi-tenant SaaS, CRMs, learning platforms and Flutter apps. I build the whole thing: the database, the API, the admin dashboard and the screens users touch.
+I'm a **Full-Stack developer** who has built **16+ web & mobile products** — marketplaces, multi-tenant SaaS, CRMs, learning platforms, business websites and Flutter apps.
 
-- 🔭 Currently **Full-Stack Developer @ [predev. Solutions](https://predevsolutions.com/)**
-- 🧱 I ship **complete products** — Laravel backends & REST APIs, custom admin dashboards / CMS, and Flutter mobile clients
-- 💳 Experienced with **payments & commerce** — escrow checkout, wallets & payouts, Stripe · PayPal · Paymob · Fawry
-- 🌐 **Bilingual (AR/EN) & RTL-first** interfaces, dark mode, PWAs and real-time notifications
-- 📫 Reach me at **alaaamr261@gmail.com** · 🌍 Based in **Cairo, Egypt** 🇪🇬
+I own the whole product: **database → API → admin dashboard → the screens users touch.**
 
-<br clear="both" />
+- 💼 Full-Stack Developer @ **[predev. Solutions](https://predevsolutions.com/)**
+- 🧱 Laravel backends, REST APIs & custom CMS dashboards
+- 📱 Flutter mobile apps with Laravel APIs behind them
+- 💳 Escrow checkout, wallets & payouts — Stripe · PayPal · Paymob · Fawry
+- 🌐 Bilingual **AR / EN**, RTL-first, dark mode & PWAs
+- 📍 Cairo, Egypt 🇪🇬 · 📫 **alaaamr261@gmail.com**
 
-<!-- ======================= WORK ======================= -->
+</td>
+<td width="52%" valign="top" align="center">
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/about.svg" width="100%" alt="class Alaa extends Developer" />
+</td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+
 ## 🚀 Selected Work
 
-| Project | What it is |
-| --- | --- |
-| **SHADO Online Trading** | Multi-vendor marketplace — many shops, one basket, one checkout, buyer's money held in **escrow** until delivery · Laravel 13, Meilisearch, **455 tests** |
-| **Motigraph CRM** | Bilingual (AR/EN) CRM for a creative studio — drag-and-drop deals pipeline, client health scores, client portal, PWA & real-time notifications |
-| **Moti-Graph Academy** | Full LMS — courses, quizzes, exams, certificates, wallets & payouts, AI assistant · Stripe · PayPal · Paymob · Fawry |
-| **NSIS International School** | Multi-tenant platform running an **American 🇺🇸 and a British 🇬🇧 school** from one codebase and one admin panel |
-| **SaaS PM Platform** | Multi-tenant project-management SaaS with AI assistance and real-time collaboration · Laravel 12, Livewire, Tailwind |
-| **Aura Wellness** | Meditation & wellness app — **Flutter** client (22 screens, Riverpod, audio) + Laravel API & admin dashboard |
-| **MS Saloon** | Arabic (RTL) barbershop website with bookings, branches map, offers & memberships, plus a custom dashboard |
-| **StockPro** | Inventory & sales management — products, stock, invoices, reports & API for small businesses |
+<p align="center">
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/shado.svg" width="49%" alt="SHADO Online Trading" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/crm.svg" width="49%" alt="Motigraph CRM" /></a>
+</p>
+<p align="center">
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/lms.svg" width="49%" alt="Moti-Graph Academy" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/school.svg" width="49%" alt="NSIS International School" /></a>
+</p>
+<p align="center">
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/saas.svg" width="49%" alt="SaaS PM Platform" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/aura.svg" width="49%" alt="Aura Wellness" /></a>
+</p>
+<p align="center">
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/saloon.svg" width="49%" alt="MS Saloon" /></a>
+  <a href="#-selected-work"><img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/projects/stockpro.svg" width="49%" alt="StockPro" /></a>
+</p>
 
-<!-- ======================= TECH ======================= -->
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
+
 ## 🛠️ Tech Stack
 
-#### 💻 Languages
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
+<table align="center">
+<tr>
+  <td align="center" width="170"><b>⚙️ Backend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=php,laravel,nodejs&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Livewire-FB70A9?style=flat-square&logo=livewire&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/Filament-FFAB00?style=flat-square&logo=filament&logoColor=black" height="26" /></td>
+</tr>
+<tr>
+  <td align="center"><b>📱 Mobile</b></td>
+  <td><img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Riverpod-00B4AB?style=flat-square&logo=flutter&logoColor=white" height="26" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🎨 Frontend</b></td>
+  <td><img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vite&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat-square&logo=alpinedotjs&logoColor=black" height="26" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🗄️ Data</b></td>
+  <td><img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" height="48" />&nbsp;<img src="https://img.shields.io/badge/Meilisearch-FF5CAA?style=flat-square&logo=meilisearch&logoColor=white" height="26" /></td>
+</tr>
+<tr>
+  <td align="center"><b>💳 Payments</b></td>
+  <td><img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/PayPal-00457C?style=flat-square&logo=paypal&logoColor=white" height="26" /> <img src="https://img.shields.io/badge/Paymob-1E4FD8?style=flat-square" height="26" /> <img src="https://img.shields.io/badge/Fawry-FFC400?style=flat-square&logoColor=black" height="26" /></td>
+</tr>
+<tr>
+  <td align="center"><b>🧰 Tools</b></td>
+  <td><img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux&theme=dark" height="48" /></td>
+</tr>
+</table>
 
-#### 🧩 Backend &amp; Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/Livewire-FB70A9?style=for-the-badge&logo=livewire&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FFAB00?style=for-the-badge&logo=filament&logoColor=black)
-![Sanctum](https://img.shields.io/badge/Sanctum_API-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/divider.svg" width="100%" />
 
-#### 🎨 Frontend &amp; Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Blade](https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-#### 🗄️ Databases &amp; Search
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
-![Meilisearch](https://img.shields.io/badge/Meilisearch-FF5CAA?style=for-the-badge&logo=meilisearch&logoColor=white)
-
-#### 🔌 Payments &amp; Tools
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
-![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
-![Paymob](https://img.shields.io/badge/Paymob-1E4FD8?style=for-the-badge&logoColor=white)
-![Fawry](https://img.shields.io/badge/Fawry-FFC400?style=for-the-badge&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-<!-- ======================= STATS ======================= -->
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlaaAbdelnasser0&theme=github_dark" alt="Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlaaAbdelnasser0&theme=github_dark&utcOffset=3" alt="Productive time" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AlaaAbdelnasser0&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AlaaAbdelnasser0&theme=tokyonight&utcOffset=3" alt="Productive time" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AlaaAbdelnasser0&hide_border=true&background=0d1117&stroke=1e293b&ring=7c5cff&fire=22d3ee&currStreakNum=f4f7fb&currStreakLabel=7c5cff&sideNums=f4f7fb&sideLabels=9aa8bd&dates=64748b" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AlaaAbdelnasser0&hide_border=true&background=0d1117&stroke=1e293b&ring=7c5cff&fire=22d3ee&currStreakNum=f4f7fb&currStreakLabel=7c5cff&sideNums=f4f7fb&sideLabels=9aa8bd&dates=64748b&border_radius=14" alt="GitHub streak" width="80%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaAbdelnasser0&bg_color=0d1117&color=f4f7fb&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&custom_title=Contribution%20Activity" alt="Activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlaaAbdelnasser0&bg_color=0d1117&color=f4f7fb&line=7c5cff&point=22d3ee&area=true&area_color=7c5cff&hide_border=true&radius=14&custom_title=Contribution%20Activity" alt="Activity graph" />
 </p>
 
-<!-- ======================= CONNECT ======================= -->
-## 🤝 Let's Build Your Next Product
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/output/snake-light.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/output/snake-dark.svg" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C5CFF,100:22D3EE&height=130&section=footer&text=Let's%20build%20your%20next%20product&fontSize=26&fontColor=ffffff&fontAlignY=68" width="100%" />
 
 <p align="center">
+  <a href="mailto:alaaamr261@gmail.com"><img src="https://img.shields.io/badge/alaaamr261@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://predevsolutions.com/"><img src="https://img.shields.io/badge/predev._Solutions-7C5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="predev. Solutions" /></a>
-  <a href="mailto:alaaamr261@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
-<p align="center"><i>⚡ Always open to building web platforms, dashboards & Flutter apps.</i></p>
