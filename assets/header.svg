@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#1a1238"/>
+    </linearGradient>
+    <linearGradient id="ac" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7C5CFF"/><stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+  <circle cx="1050" cy="60" r="160" fill="#7C5CFF" opacity="0.18"/>
+  <circle cx="1130" cy="260" r="110" fill="#22D3EE" opacity="0.12"/>
+  <text x="70" y="95" font-family="Consolas, 'Courier New', monospace" font-size="20" fill="#22D3EE">&lt;?php echo "Hello, world!"; ?&gt;</text>
+  <text x="70" y="165" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#f4f7fb">Alaa Abdelnasser</text>
+  <rect x="72" y="185" width="140" height="5" rx="2.5" fill="url(#ac)"/>
+  <text x="70" y="232" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" fill="#c9d1e3">Full-Stack Laravel &amp; Flutter Developer</text>
+  <text x="70" y="268" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#8b95ab">@ predev. Solutions  ·  Cairo, Egypt</text>
+</svg>
