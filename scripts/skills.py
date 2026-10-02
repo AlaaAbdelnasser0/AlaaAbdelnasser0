@@ -8,7 +8,7 @@ pubspec.yaml, languages and tell-tale files, then redraws:
 
 Needs STATS_TOKEN (or GH_TOKEN) that can read private repos. Only skill names
 and how many repos use them are written out, never repo names or code.
-New tech shows up on its own once it is in CATALOG below and a repo uses it.
+New tech shows up on its own once it is listed in STACK or TOOLKIT below and a repo uses it.
 """
 import base64, json, pathlib, re, urllib.error
 from collections import namedtuple
