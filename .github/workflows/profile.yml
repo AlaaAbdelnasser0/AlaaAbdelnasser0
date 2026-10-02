@@ -1,0 +1,53 @@
+name: Refresh profile
+
+# Rebuilds the stats card, the skills sections (tech stack + toolkit) and the
+# README skill lists from what my repos actually use, every day.
+#
+# Needs a STATS_TOKEN secret: a fine-grained token with read-only access to
+# Contents and Metadata on all my repos, so private repos are counted too.
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/profile.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-profile
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild stats, skills and READMEs
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: |
+          if [ -z "$STATS_TOKEN" ]; then
+            echo "::error::STATS_TOKEN secret is missing, so nothing can be refreshed. Add a read-only token (see the top of this file)."
+            exit 1
+          fi
+          python3 scripts/stats.py
+          python3 scripts/skills.py
+          python3 scripts/readme.py
+
+      - name: Commit if changed
+        run: |
+          git add assets README.md README.ar.md
+          git diff --cached --quiet && exit 0
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh profile stats and skills"
+          git push
