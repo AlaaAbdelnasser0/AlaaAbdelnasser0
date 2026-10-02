@@ -30,6 +30,19 @@ def commit_count(repo):
     return int(m.group(1)) if m else len(data)
 
 
+def contributions():
+    """Last-year total from the profile calendar. Unlike commit_count it includes work in
+    org repos (predev-solutions), which this token cannot list."""
+    q = '{ user(login: "%s") { contributionsCollection { contributionCalendar { totalContributions } } } }' % USER
+    req = urllib.request.Request("https://api.github.com/graphql", data=json.dumps({"query": q}).encode(), headers={
+        "Authorization": f"Bearer {TOKEN}", "Content-Type": "application/json", "User-Agent": USER})
+    try:
+        with urllib.request.urlopen(req) as r:
+            return json.load(r)["data"]["user"]["contributionsCollection"]["contributionCalendar"]["totalContributions"]
+    except (urllib.error.URLError, KeyError, TypeError):
+        return None
+
+
 def collect():
     repos = [r for r in api("user/repos?affiliation=owner&per_page=100") if r["name"] != USER]
     langs, commits = {}, 0
@@ -40,10 +53,12 @@ def collect():
     # C++/CMake/Swift etc. in Flutter repos are generated platform runners, not code I wrote
     for k in ("C++", "CMake", "Swift", "C", "Objective-C", "Ruby", "Kotlin", "Dockerfile", "Shell", "Makefile"):
         langs.pop(k, None)
-    return len(repos), commits, langs
+    total = contributions()
+    activity = (f"{total}", "yearly contributions") if total else (f"{commits}+", "commits")
+    return len(repos), activity, langs
 
 
-def render(n_repos, commits, langs):
+def render(n_repos, activity, langs):
     W, H = 920, 250
     total = sum(langs.values())
     top = sorted(langs.items(), key=lambda kv: -kv[1])[:5]
@@ -51,7 +66,7 @@ def render(n_repos, commits, langs):
     parts = top + ([("Other", other)] if other else [])
 
     tiles = [("📦", f"{n_repos}", "products built", "#10B981"),
-             ("🔨", f"{commits}+", "commits", V),
+             ("🔨", *activity, V),
              ("🧠", f"{len(langs)}", "languages", CY)]
     out = []
     for i, (emo, num, label, col) in enumerate(tiles):
@@ -63,7 +78,7 @@ def render(n_repos, commits, langs):
   <rect width="{w}" height="{h}" rx="14" fill="url(#gloss)"/>
   <text x="20" y="37" font-size="22">{emo}</text>
   <text x="62" y="38" font-family="{SANS}" font-size="26" font-weight="800" fill="#f4f7fb">{num}</text>
-  <text x="{62 + len(num) * 16 + 10}" y="37" font-family="{SANS}" font-size="14" fill="#a9b3c9">{label}</text>
+  <text x="{62 + len(num) * 16 + 10}" y="37" font-family="{SANS}" font-size="{14 if len(label) < 16 else 13}" fill="#a9b3c9">{label}</text>
 </g></g>""")
 
     # stacked language bar as a 3D slab
