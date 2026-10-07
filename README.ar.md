@@ -136,7 +136,7 @@
 ## 📊 إحصائيات GitHub
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/stats.svg?v=7466fb77" width="100%" alt="إحصائيات كل المستودعات بما فيها الخاصة" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/stats.svg?v=906c3376" width="100%" alt="إحصائيات كل المستودعات بما فيها الخاصة" />
 </p>
 
 <p align="center">
