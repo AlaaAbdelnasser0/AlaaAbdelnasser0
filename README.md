@@ -149,7 +149,7 @@ I own the whole product: **database → API → admin dashboard → the screens 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/stats.svg?v=1cf8a9ae" width="100%" alt="Stats across all repos, private included" />
+  <img src="https://raw.githubusercontent.com/AlaaAbdelnasser0/AlaaAbdelnasser0/main/assets/stats.svg?v=d4ac0028" width="100%" alt="Stats across all repos, private included" />
 </p>
 
 <p align="center">
